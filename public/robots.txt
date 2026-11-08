@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anak-muda22.github.io/PORTOFOLIO-MUHAMAD-FATIR/sitemap.xml

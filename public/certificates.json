@@ -1,0 +1,86 @@
+[
+  {
+    "file": "crackbox-session-penetration-testing.jpeg",
+    "url": "./certificates/crackbox-session-penetration-testing.jpeg",
+    "type": "image",
+    "title": "Session Penetration Testing",
+    "issuer": "Crackbox.id",
+    "date": "2026-06-08",
+    "year": "2026",
+    "credentialId": "",
+    "verifyUrl": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "file": "rocastu-2026-ai-era-digital-cybersecurity.jpeg",
+    "url": "./certificates/rocastu-2026-ai-era-digital-cybersecurity.jpeg",
+    "type": "image",
+    "title": "Ancaman Cyber Security Nyata di Era Digital & Serangan Berbasis AI",
+    "issuer": "ROCATSU 2026",
+    "date": "2026-05-17",
+    "year": "2026",
+    "credentialId": "",
+    "verifyUrl": "",
+    "category": "Cybersecurity"
+  },
+  {
+    "file": "rocastu-2026-ai-in-practice.jpeg",
+    "url": "./certificates/rocastu-2026-ai-in-practice.jpeg",
+    "type": "image",
+    "title": "Penerapan AI di Dunia Nyata yang Jarang Dibahas di Kelas",
+    "issuer": "ROCATSU 2026",
+    "date": "2026-05-17",
+    "year": "2026",
+    "credentialId": "",
+    "verifyUrl": "",
+    "category": "Information Technology"
+  },
+  {
+    "file": "rocastu-2026-coding-ai.jpeg",
+    "url": "./certificates/rocastu-2026-coding-ai.jpeg",
+    "type": "image",
+    "title": "Menemukan Peran Coding di Era AI yang Semakin Canggih",
+    "issuer": "ROCATSU 2026",
+    "date": "2026-05-17",
+    "year": "2026",
+    "credentialId": "",
+    "verifyUrl": "",
+    "category": "Programming"
+  },
+  {
+    "file": "rocastu-2026-robotics-3d-printing.jpeg",
+    "url": "./certificates/rocastu-2026-robotics-3d-printing.jpeg",
+    "type": "image",
+    "title": "Robotika dan 3D Printing: Mengubah Ide Digital Menjadi Robot yang Bergerak",
+    "issuer": "ROCATSU 2026",
+    "date": "2026-05-17",
+    "year": "2026",
+    "credentialId": "",
+    "verifyUrl": "",
+    "category": "Programming"
+  },
+  {
+    "file": "rocastu-2026-seminar-robotics-coding-ai-iot-cybersecurity.jpeg",
+    "url": "./certificates/rocastu-2026-seminar-robotics-coding-ai-iot-cybersecurity.jpeg",
+    "type": "image",
+    "title": "ROCATSU 2026 - Seminar Nasional Robotics, Coding, AI, IoT & Cybersecurity",
+    "issuer": "ROCATSU 2026",
+    "date": "2026-05-17",
+    "year": "2026",
+    "credentialId": "",
+    "verifyUrl": "",
+    "category": "Information Technology"
+  },
+  {
+    "file": "rocastu-2026-skill-iot-connected-world.jpeg",
+    "url": "./certificates/rocastu-2026-skill-iot-connected-world.jpeg",
+    "type": "image",
+    "title": "Skill IoT yang Wajib Dikuasai Generasi Muda di Era Connected World",
+    "issuer": "ROCATSU 2026",
+    "date": "2026-05-17",
+    "year": "2026",
+    "credentialId": "",
+    "verifyUrl": "",
+    "category": "Information Technology"
+  }
+]
